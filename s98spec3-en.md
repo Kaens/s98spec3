@@ -118,7 +118,7 @@ bit|meaning
 
  The tag names may be anything you want, but the above tags are defined as basic tags.
 
-[DUMP DATA FORMAT]
+### DUMP DATA FORMAT
 raw data | meaning
 -|-
 00 aa dd | DEVICE1(normal)
